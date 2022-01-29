@@ -63,3 +63,5 @@ crashlytics-build.properties
 
 
 Nutmeg/Library/
+
+*.meta
