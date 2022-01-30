@@ -11,10 +11,11 @@ In general, a 'nutmeg' is the seed or ground spice of several species of the gen
 In sports, a 'nutmeg' is when you put the ball through an opponent's legs either while dribbling or passing.  
 Welcome to Duality and enjoy your game! 
 
-![Screenshot_1](https://user-images.githubusercontent.com/4624615/151685707-bac6993a-00bb-47d4-86a1-7040d6411d4c.jpg)
-![Screenshot_2](https://user-images.githubusercontent.com/4624615/151685708-c34826fc-bfc1-41d7-866e-e2db32fcd8d2.jpg)
-![Screenshot_3](https://user-images.githubusercontent.com/4624615/151685710-5eee0782-4b07-484a-8d17-caaf36875920.jpg)
-
+[Play Now!](https://sdoychev.itch.io/nutmeg)
 
 [![GitKraken shield](https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken)](https://gitkraken.com/invite/9fQArCLM)  
 This repo was made with love using [GitKraken Client](https://gitkraken.com/invite/9fQArCLM)  
+
+![Screenshot_1](https://user-images.githubusercontent.com/4624615/151685707-bac6993a-00bb-47d4-86a1-7040d6411d4c.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/4624615/151685708-c34826fc-bfc1-41d7-866e-e2db32fcd8d2.jpg)
+![Screenshot_3](https://user-images.githubusercontent.com/4624615/151685710-5eee0782-4b07-484a-8d17-caaf36875920.jpg)
