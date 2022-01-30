@@ -2,7 +2,7 @@ Nutmeg
 
 ![COVER](https://user-images.githubusercontent.com/4624615/151685698-fa8933d6-fff8-4325-b962-8c495e688012.png)
 
-Nutmeg is a game made with Unity3d made in 48 hours.   
+Nutmeg is a game made with Unity3d in 24 hours.   
 [Submission for the Global Game Jam 2022](https://globalgamejam.org/2022/games/nutmeg-9)
 
 The theme of the 2022 Global Game Jam is Duality.
