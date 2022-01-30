@@ -67,3 +67,5 @@ Nutmeg/Library/
 *.meta
 
 Nutmeg/Temp/
+
+Nutmeg/Build/
